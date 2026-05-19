@@ -1,0 +1,21 @@
+/*
+This file stores global styles for the frontend app.
+It also loads Tailwind's base, component, and utility layers.
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Set a soft background color for the whole app. */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(180deg, #f0fdf4 0%, #ecfeff 100%);
+  color: #1f2937;
+}
+
+/* Make all elements calculate width/height in a beginner-friendly predictable way. */
+* {
+  box-sizing: border-box;
+}

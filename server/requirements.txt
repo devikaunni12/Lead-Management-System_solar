@@ -1,0 +1,6 @@
+# This file lists all Python packages needed to run the backend server.
+fastapi
+uvicorn
+sqlalchemy
+pydantic[email]
+python-dotenv

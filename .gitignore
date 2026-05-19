@@ -1,0 +1,22 @@
+# This file tells Git which files/folders should not be tracked.
+
+# Ignore frontend dependency folder.
+client/node_modules/
+
+# Ignore frontend build output.
+client/dist/
+
+# Ignore Python cache files.
+__pycache__/
+*.pyc
+
+# Ignore local environment files.
+.env
+
+# Ignore SQLite database files generated locally.
+server/database/*.db
+*.db
+
+# Ignore OS-specific junk files.
+.DS_Store
+Thumbs.db
