@@ -110,9 +110,9 @@ Current example values:
 - `DATABASE_URL=sqlite:///./database/leads.db`
 
 ## Screenshots
-Add your screenshots inside the `screenshots/` folder after running the app.
 
 Example:
 - `screenshots/dashboard.png`
 - `screenshots/leads-list.png`
 - `screenshots/add-lead.png`
+- `screenshots/edit-lead.png`
