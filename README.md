@@ -113,6 +113,6 @@ Current example values:
 
 Example:
 - `screenshots/dashboard.png`
-- `screenshots/leads-list.png`
+- `screenshots/lead-list.png`
 - `screenshots/add-lead.png`
 - `screenshots/edit-lead.png`
